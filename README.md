@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Quant Developign
+- 🔭 I’m currently working on Quant Developing
 - 🌱 I’m currently learning NLP
 - 👯 I’m looking to collaborate on open source projects 
 - 😄 Pronouns: he/him/his 
