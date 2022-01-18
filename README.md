@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on front-end developing 
-- 🌱 I’m currently learning computer graphics 
+- 🔭 I’m currently working on Quant Developign
+- 🌱 I’m currently learning NLP
 - 👯 I’m looking to collaborate on open source projects 
 - 😄 Pronouns: he/him/his 
-- ⚡ Fun fact: ⛷️ lover 
+- ⚡ Fun fact: ⛷️ learning how to ski 🛩️ trying to become a private pilot
 
 ### Connect with me:
 
